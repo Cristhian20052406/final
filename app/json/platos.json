@@ -1,0 +1,33 @@
+
+[
+        {
+          "id": 1,
+          "nombre": "Ceviche",
+          "foto": "imagenes/ceviche.png",
+          "ingredientes": ["pescado", "limón", "cebolla roja", "ají limo", "cilantro", "maíz cancha"]
+        },
+        {
+          "id": 2,
+          "nombre": "Lomo saltado",
+          "foto": "imagenes/lomo.png",
+          "ingredientes": ["filete de res", "cebolla", "tomate", "ají amarillo", "cilantro", "papas"]
+        },
+        {
+          "id": 3,
+          "nombre": "Aji de gallina",
+          "foto": "imagenes/aji.png",
+          "ingredientes": ["pollo", "ají amarillo", "pan", "nueces", "queso", "papas"]
+        },
+        {
+          "id": 4,
+          "nombre": "Causa limeña",
+          "foto": "imagenes/causa.png",
+          "ingredientes": ["papas", "ají amarillo", "limón", "aceite", "pollo", "palta"]
+        },
+        {
+          "id": 5,
+          "nombre": "Anticuchos",
+          "foto": "imagenes/anticucho.png",
+          "ingredientes": ["corazón de res", "ají panca", "vinagre", "comino", "ajo", "papas"]
+        }
+]
